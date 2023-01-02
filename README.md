@@ -1,2 +1,2 @@
 # Markdown
- Guidelines about markdown language
+ Simple guidelines about markdown.
